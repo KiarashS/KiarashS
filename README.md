@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :heartpulse: My Fav :satisfied:
+
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in – Edsger Dijkstra
+
+> Failure is success if we learn from it. – Malcolm Forbes
+
+> Knowledge itself is power. – Sir Francis Bacon
+
+> Great things happen to those who don't stop believing, trying, learning, and being grateful. – Roy T. Bennett, The Light in the Heart
