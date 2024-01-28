@@ -1,4 +1,4 @@
-<img src="https://github.com/KiarashS/KiarashS/blob/main/ASp3plsvhe.gif" alt="Here is a little bit about me!">
+<!--img src="https://github.com/KiarashS/KiarashS/blob/main/ASp3plsvhe.gif" alt="Here is a little bit about me!"-->
 
 <!--
 **KiarashS/KiarashS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
