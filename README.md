@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :heartpulse: My Fav :satisfied:
 
-> __Source codes are the best sources to learn concepts. – Kiarash Soleimanzadeh__
+> __Codes are the best sources to learn concepts. – Kiarash Soleimanzadeh__
 
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
 
